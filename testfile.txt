@@ -1,4 +1,7 @@
 class test1{
 public static void main(String args[]){
-System.out.println("welcome to dev1");
-
+int i=0;
+for(i=0:i<5;i++){
+System.out.println("welome to dev2")
+}
+}
