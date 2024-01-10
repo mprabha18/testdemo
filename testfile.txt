@@ -1,5 +1,13 @@
-class test{
+
+
+
+
+
+class test1{
 public static void main(String args[]){
-System.out.println("welcome");
+int i=1;
+for(i=0:i<3;i++){
+System.out.println("welome")`;
+>>>>>>> dev2
 }
 }
