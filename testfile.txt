@@ -1,13 +1,4 @@
-
-
-
-
-
 class test1{
 public static void main(String args[]){
-int i=1;
-for(i=0:i<3;i++){
-System.out.println("welome")`;
->>>>>>> dev2
-}
-}
+System.out.println("welcome to dev1");
+
