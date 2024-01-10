@@ -1,1 +1,7 @@
-this is from dev2. conflict should appear
+
+
+
+this is sample file
+from dev1. no change in dev2
+
+>>>>>>> dev1
