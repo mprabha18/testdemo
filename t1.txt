@@ -1,2 +1,3 @@
-hdjfhsjdhf
+this is sample file
+from dev1. no change in dev2
 
